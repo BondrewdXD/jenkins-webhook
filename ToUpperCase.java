@@ -1,4 +1,4 @@
-public class ToUpperCase {
+public class ToUpperCase{
     public static void main(String[] args) {
         if (args.length > 0) {
             String input = args[0];
